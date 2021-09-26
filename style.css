@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+}
+body{
+    background: linear-gradient(60deg,rgb(241, 201, 238),rgb(215, 207, 224),rgb(228, 236, 228));
+}
+
+#header{
+    background: linear-gradient(60deg,rgb(19, 17, 19),rgb(56, 53, 61),rgb(23, 31, 23));
+    height: 70px;
+}
+#brand{
+    text-align: center;
+    background: linear-gradient(60deg,rgb(19, 17, 19),rgb(56, 53, 61),rgb(23, 31, 23));
+    width: 30%;
+    float: left;
+    color: rgba(240, 237, 234, 0.925);
+    line-height: 70px;
+
+}
+a{
+    color:rgb(233, 233, 245);
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    margin-right: 40px;
+}
+#menu{
+    text-align: centre;
+    float: right;
+    width: 50%;
+    line-height: 70px;
+    
+}
+#Breakfast{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom:10px;
+
+}
+#BF{
+    text-align:center;
+    background : linear-gradient(50deg,rgb(178, 164, 180),rgb(184, 12, 12));
+    width: 50%;
+    padding : 10px;
+    border-radius : 50%;
+    margin: 10px auto;
+}
+table{
+    width: 100%;
+    margin-top: 60px;
+}
+img{
+     border-radius: 20px;
+     box-shadow: 0 0 20px black; 
+     margin:0 auto;
+     display: block;
+
+}
+#Lunch{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom:10px;
+
+}
+#Ln{
+    text-align:center;
+    background : linear-gradient(50deg,rgb(178, 164, 180),rgb(184, 12, 12));
+    width: 50%;
+    padding : 10px;
+    border-radius : 50%;
+    margin: 10px auto;
+}
+
+#footer{
+    text-align: centre;
+    color: cornsilk;
+    background:linear-gradient(60deg,rgb(19, 17, 19),rgb(56, 53, 61),rgb(23, 31, 23));
+    margin-top: 30px;
+    padding: 20px;
+}
+#social{
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+    
+
+}
+#social {
+    margin: 20px;
+}
+
+h5{
+    text-align: center;
+    
+}
